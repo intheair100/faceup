@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zhangping/Android/git/IMKitWithVoIP/src/main/assets"><file name="voip_ring_call.mp3" path="/Users/zhangping/Android/git/IMKitWithVoIP/src/main/assets/voip_ring_call.mp3"/><file name="voip_ring_called.mp3" path="/Users/zhangping/Android/git/IMKitWithVoIP/src/main/assets/voip_ring_called.mp3"/></source></dataSet><dataSet config="debug"><source path="/Users/zhangping/Android/git/IMKitWithVoIP/src/debug/assets"/></dataSet></merger>

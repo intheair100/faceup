@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="login_input_text">
+        <item name="android:paddingLeft">4px</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

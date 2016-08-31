@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tabfragment.faceupFragment"
+    android:background="@android:color/white">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/id_ibtn_head"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/chating_on"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/id_iv_logo"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@id/id_ibtn_head"
+        android:background="@drawable/logo"/>
+    <RelativeLayout
+        android:layout_below="@+id/id_iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="20dp"
+
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_ibtn_boyhead"
+            android:background="@drawable/boymain"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_ibtn_girlhead"
+            android:background="@drawable/girlmain"
+            android:layout_toRightOf="@+id/id_ibtn_boyhead"/>
+    </RelativeLayout>
+
+</RelativeLayout>

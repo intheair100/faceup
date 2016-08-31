@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tab_pressed_color">#50DB98</color>
+    <color name="tab_unpressed_color">#000000</color>
+    <color name="titlebgcolor">#F9F9F9</color>
+</resources>

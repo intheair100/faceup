@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.zhangping.facelovestudio.faceup.faceupActivity">
+
+    <include android:id="@+id/ll_title" layout="@layout/title_faceup"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:id="@+id/id_iv_faceup"
+        android:layout_below="@id/ll_title"
+        android:background="@android:color/holo_orange_dark">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="153dp"
+            android:id="@+id/id_iv_faceup_body"
+            android:layout_marginTop="102dp"
+            android:src="@drawable/body_b1"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="153dp"
+            android:id="@+id/id_iv_faceup_face"
+            android:src="@drawable/face_b1"
+            android:layout_marginTop="37dp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/id_iv_faceup_mouth"
+            android:src="@drawable/mouth_1"
+            android:layout_marginTop="142dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/id_iv_faceup_eyes"
+            android:src="@drawable/eyes_1"
+            android:layout_marginTop="85dp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_marginTop="80dp"
+            android:src="@drawable/eyebrows_1"
+            android:id="@+id/id_iv_faceup_eyebrows"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="179dp" 
+            android:layout_marginTop="9dp"
+            android:src="@drawable/hairboy1"
+            android:id="@+id/id_iv_faceup_hair"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="93dp"
+            android:layout_marginTop="76dp"
+            android:src="@drawable/glasses_3"
+            android:id="@+id/id_iv_faceup_glasses"/>
+    </RelativeLayout>
+
+    <com.example.zhangping.facelovestudio.faceup.HorizontalListView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/id_horizontallistview_faceup"
+        android:layout_below="@id/id_iv_faceup">
+    </com.example.zhangping.facelovestudio.faceup.HorizontalListView>
+
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/id_viewpager_faceup"
+        android:layout_below="@id/id_horizontallistview_faceup">
+
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/rc_loading"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    /><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/drawable-xhdpi/rc_progress_sending_style.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable-xhdpi/rc_progress_sending_style.xml -->

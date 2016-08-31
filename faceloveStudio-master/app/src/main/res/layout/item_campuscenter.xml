@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="68dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginTop="4dp"
+        android:id="@+id/id_iv_campuscenter_head"
+        android:src="@drawable/lists_on"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginTop="4dp"
+        android:id="@+id/id_tv_campuscenter_nickname"
+        android:textSize="15sp"
+        android:gravity="center_vertical|left"
+        android:layout_toRightOf="@id/id_iv_campuscenter_head"
+        android:layout_centerVertical="true"
+        />
+    <LinearLayout
+        android:layout_height="60dp"
+        android:layout_marginTop="4dp"
+
+        android:layout_width="wrap_content"
+        android:layout_toRightOf="@id/id_tv_campuscenter_nickname"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical"
+        android:gravity="right"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_iv_campuscenter_praise"
+            android:src="@drawable/like"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_tv_campuscenter_praise"
+            android:gravity="center_vertical|right"
+           />
+
+    </LinearLayout>
+</RelativeLayout>
