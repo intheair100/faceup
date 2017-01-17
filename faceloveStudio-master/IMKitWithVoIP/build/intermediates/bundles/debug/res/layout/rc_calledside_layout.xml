@@ -164,4 +164,4 @@
         android:background="#88000000"
         android:clickable="true"
         android:visibility="gone"/>
-</RelativeLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_calledside_layout.xml -->
+</RelativeLayout>

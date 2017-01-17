@@ -6,4 +6,4 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_gravity="bottom"
-    app:RCStyle="SCE" /><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_fr_messageinput.xml -->
+    app:RCStyle="SCE" />

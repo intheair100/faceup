@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_switch_btn.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_switch_btn.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_ic_extend.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ic_extend.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_send.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_send.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_public_service_enter_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_public_service_enter_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_an_voice_receive.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_an_voice_receive.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_ic_voice.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ic_voice.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_ic_smiley.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ic_smiley.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_hands_free_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_hands_free_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_ic_keyboard.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ic_keyboard.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_input.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_input.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_answer_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_answer_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_bg_menu.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_bg_menu.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_over_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_over_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_sound_off_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_sound_off_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_bg_editinput.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_bg_editinput.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_an_voice_sent.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_an_voice_sent.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_item_list_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_item_list_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_refuse_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_refuse_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_finish_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_finish_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_item_top_list_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_item_top_list_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_bg_item.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_bg_item.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_photo_checkbox.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_photo_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_preview_checkbox.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_preview_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_voice.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_voice.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_ed_public_service_search_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ed_public_service_search_selector.xml"
+    },
+    {
+        "merged": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/res/merged/androidTest/debug/drawable/rc_btn_public_service_unfollow_selector.xml",
+        "source": "/Users/zp/Android/faceup/faceloveStudio-master/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_public_service_unfollow_selector.xml"
+    }
+]

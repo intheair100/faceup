@@ -8,4 +8,4 @@
     <item android:drawable="@drawable/rc_btn_pub_service_follow_hover" android:state_focused="true" android:state_pressed="false" android:state_selected="true"/>
     <!-- Pressed -->
     <item android:drawable="@drawable/rc_btn_pub_service_follow_hover" android:state_pressed="true"/>
-</selector><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/drawable/rc_btn_public_service_unfollow_selector.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_btn_public_service_unfollow_selector.xml -->
+</selector>

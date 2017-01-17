@@ -5,4 +5,4 @@
     <item android:drawable="@drawable/rc_precheckbox_normal" android:state_checked="false"></item>
     <item android:drawable="@drawable/rc_precheckbox_normal"></item>
 
-</selector><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/drawable/rc_preview_checkbox.xml -->
+</selector>

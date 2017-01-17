@@ -23,4 +23,3 @@
         android:layout_marginLeft="40dp"
         android:id="@+id/name"/>
 </RelativeLayout>
-<!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_public_service_search.xml -->

@@ -38,4 +38,4 @@
         android:layout_height="match_parent"
         android:background="@android:color/darker_gray" />
 
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_public_service_input_menu.xml -->
+</LinearLayout>

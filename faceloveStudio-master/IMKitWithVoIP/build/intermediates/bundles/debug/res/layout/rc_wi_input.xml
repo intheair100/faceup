@@ -154,4 +154,4 @@
             android:layout_height="wrap_content"></FrameLayout>
     </FrameLayout>
 
-</merge><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_wi_input.xml -->
+</merge>

@@ -6,4 +6,3 @@
     android:background="@android:color/transparent"
     android:gravity="center"
     android:textColor="@android:color/black" />
-<!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_wi_emoji_txt.xml -->

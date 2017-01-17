@@ -20,4 +20,4 @@
         android:layout_width="match_parent"
         android:layout_height="0.0005dip"
         android:background="@android:color/darker_gray" />
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_public_service_input_menu_item.xml -->
+</LinearLayout>

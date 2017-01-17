@@ -36,4 +36,4 @@
             android:layout_gravity="center_vertical" />
     </RelativeLayout>
 
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_public_service_message.xml -->
+</LinearLayout>

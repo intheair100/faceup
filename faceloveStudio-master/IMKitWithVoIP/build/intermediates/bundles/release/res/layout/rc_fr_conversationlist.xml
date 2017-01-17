@@ -33,4 +33,4 @@
         android:textSize="16dp"
         android:visibility="gone" />
 
-</RelativeLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_fr_conversationlist.xml -->
+</RelativeLayout>

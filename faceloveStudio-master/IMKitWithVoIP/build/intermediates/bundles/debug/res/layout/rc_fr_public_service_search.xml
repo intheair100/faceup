@@ -44,4 +44,4 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/rc_search_list"></ListView>
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_fr_public_service_search.xml -->
+</LinearLayout>

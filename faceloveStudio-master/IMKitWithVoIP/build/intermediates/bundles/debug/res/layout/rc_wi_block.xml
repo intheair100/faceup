@@ -2,4 +2,4 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:background="@android:color/black"
-    android:layout_height="match_parent"/><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_wi_block.xml -->
+    android:layout_height="match_parent"/>

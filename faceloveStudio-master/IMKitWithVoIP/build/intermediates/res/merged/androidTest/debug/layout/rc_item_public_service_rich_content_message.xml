@@ -62,4 +62,4 @@
         android:textColor="#353535"
         android:text="@string/rc_read_all"/>
 
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_public_service_rich_content_message.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/layout/rc_item_public_service_rich_content_message.xml -->
+</LinearLayout>

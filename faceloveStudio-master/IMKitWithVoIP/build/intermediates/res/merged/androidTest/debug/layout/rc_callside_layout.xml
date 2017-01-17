@@ -128,4 +128,4 @@
         android:clickable="true"
         android:visibility="gone"/>
 
-</RelativeLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_callside_layout.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/layout/rc_callside_layout.xml -->
+</RelativeLayout>

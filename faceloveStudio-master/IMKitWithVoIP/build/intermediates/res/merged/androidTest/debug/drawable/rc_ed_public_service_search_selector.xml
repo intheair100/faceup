@@ -6,4 +6,4 @@
         <item android:drawable="@drawable/rc_ed_pub_service_search_hover" android:state_selected= "true"/>
         <item android:drawable="@drawable/rc_ed_pub_service_search_normal" />
 
-</selector><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/drawable/rc_ed_public_service_search_selector.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_ed_public_service_search_selector.xml -->
+</selector>

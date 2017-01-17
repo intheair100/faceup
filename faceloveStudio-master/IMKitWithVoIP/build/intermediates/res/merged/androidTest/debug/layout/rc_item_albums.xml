@@ -18,4 +18,4 @@
         android:layout_height="fill_parent"
         android:checked="false" />
 
-</FrameLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_albums.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/layout/rc_item_albums.xml -->
+</FrameLayout>

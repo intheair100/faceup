@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/rc_bg_text_hover" android:state_selected="true"/>
     <item android:drawable="@drawable/rc_bg_text_normal"/>
-</selector><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/drawable/rc_bg_editinput.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/drawable/rc_bg_editinput.xml -->
+</selector>

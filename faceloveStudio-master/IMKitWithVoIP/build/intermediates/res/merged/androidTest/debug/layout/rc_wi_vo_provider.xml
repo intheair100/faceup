@@ -11,4 +11,4 @@
         android:textColor="@color/rc_text_voice"
         android:background="@drawable/rc_btn_voice"
         android:text="@string/rc_input_voice" />
-</merge><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_wi_vo_provider.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/layout/rc_wi_vo_provider.xml -->
+</merge>

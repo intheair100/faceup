@@ -51,4 +51,4 @@
             android:layout_gravity="center|right" />
     </FrameLayout>
 
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_ac_camera.xml -->
+</LinearLayout>

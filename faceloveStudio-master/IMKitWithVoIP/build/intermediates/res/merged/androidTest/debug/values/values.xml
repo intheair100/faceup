@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/values/values.xml -->
-    <eat-comment/>
     <integer-array name="rc_emoji_code">
             <item>0x1f60a</item>
             <item>0x1f628</item>
@@ -282,9 +280,28 @@
     <color name="rc_text_color_tertiary">#d7d7d7</color>
     <color name="rc_text_voice">#7f7f7f</color>
     <color name="rc_voice_color">#0195ff</color>
-    <declare-styleable name="AsyncImageView"><attr format="dimension" name="RCMinShortSideSize"/><attr format="dimension" name="RCCornerRadius"/><attr name="RCShape"><flag name="square" value="0"/><flag name="circle" value="1"/></attr><attr format="reference" name="RCDefDrawable"/></declare-styleable>
-    <declare-styleable name="InputView"><attr name="RCStyle"><enum name="SCE" value="0x123"/><enum name="CES" value="0x231"/><enum name="ECS" value="0x321"/><enum name="CSE" value="0x213"/><enum name="SC" value="0x120"/><enum name="CS" value="0x21"/><enum name="EC" value="0x320"/><enum name="CE" value="0x023"/><enum name="C" value="0x020"/></attr></declare-styleable>
-    <declare-styleable name="RCCircleFlowIndicator"><attr format="color" name="RCActiveColor"/><attr format="color" name="RCInactiveColor"/><attr format="dimension" name="RCRadius"/><attr format="dimension" name="RCSpacing"/><attr format="boolean" name="RCCentered"/><attr format="integer" name="RCFadeOut"/><attr name="RCInactiveType"><flag name="RCStroke" value="0"/><flag name="RCFill" value="1"/></attr><attr name="RCActiveType"><flag name="RCStroke" value="0"/><flag name="RCFill" value="1"/></attr><attr format="boolean" name="RCSnap"/></declare-styleable>
+    <declare-styleable name="AsyncImageView"><attr format="dimension" name="RCMinShortSideSize"/><attr format="dimension" name="RCCornerRadius"/><attr name="RCShape">
+            <flag name="square" value="0"/>
+            <flag name="circle" value="1"/>
+        </attr><attr format="reference" name="RCDefDrawable"/></declare-styleable>
+    <declare-styleable name="InputView"><attr name="RCStyle">
+            <enum name="SCE" value="0x123"/>
+            <enum name="CES" value="0x231"/>
+            <enum name="ECS" value="0x321"/>
+            <enum name="CSE" value="0x213"/>
+            <enum name="SC" value="0x120"/>
+            <enum name="CS" value="0x21"/>
+            <enum name="EC" value="0x320"/>
+            <enum name="CE" value="0x023"/>
+            <enum name="C" value="0x020"/>
+        </attr></declare-styleable>
+    <declare-styleable name="RCCircleFlowIndicator"><attr format="color" name="RCActiveColor"/><attr format="color" name="RCInactiveColor"/><attr format="dimension" name="RCRadius"/><attr format="dimension" name="RCSpacing"/><attr format="boolean" name="RCCentered"/><attr format="integer" name="RCFadeOut"/><attr name="RCInactiveType">
+            <flag name="RCStroke" value="0"/>
+            <flag name="RCFill" value="1"/>
+        </attr><attr name="RCActiveType">
+            <flag name="RCStroke" value="0"/>
+            <flag name="RCFill" value="1"/>
+        </attr><attr format="boolean" name="RCSnap"/></declare-styleable>
     <declare-styleable name="RCViewFlow"><attr format="integer" name="RCSideBuffer"/></declare-styleable>
     <dimen name="rc_conversation_item_data_size">14sp</dimen>
     <dimen name="rc_conversation_item_name_size">16sp</dimen>

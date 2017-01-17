@@ -8,4 +8,3 @@
     android:autoLink="all"
     android:gravity="center_vertical|left"
     android:maxWidth="236dp" />
-<!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_item_text_message.xml -->

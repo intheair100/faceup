@@ -23,4 +23,4 @@
         app:RCInactiveType="RCFill"
         app:RCRadius="6dp" />
 
-</LinearLayout><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/src/main/res/layout/rc_wi_ext_pager.xml --><!-- From: file:/Users/zhangping/Android/git/IMKitWithVoIP/build/intermediates/bundles/debug/res/layout/rc_wi_ext_pager.xml -->
+</LinearLayout>
