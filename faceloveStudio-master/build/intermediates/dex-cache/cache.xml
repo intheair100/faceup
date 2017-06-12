@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_e804247c2b107c3c134e95f41023315d570e3557/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_1123d0bc549987b92199916697973e00c36abbc6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -48,42 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="b259308db766033fe17e7dfb9547103bbeee21de">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1a92566094735e1cfb17f3c5b54edaab087edbf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/faceloveStudio-master/IMKitWithVoIP/unspecified/jars/libs/Rong_IMKit_v2_4_7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e3a0c5956530f93e57240272baf9d460d3cada61">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/8/Rong_IMKit_v2_4_7_aedf11addea3e9b88f7e7f67f4c14e54cfa4c96f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5b9806b8da37cba12e8e7d07713b3703a95f0637">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b753b6de069a63297162d59321a8ca219e7eb0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/libs/xUtils-2.6.14.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.14_53ac272464fb84e413aaac0df4ca9cabd569371d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/zp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="true"
         optimize="true"
@@ -108,6 +54,51 @@
         revision="23.0.2"
         sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
         <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.3.1_b54d49337cbb75c61ee6e5b6fa818e97da7e8a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_e804247c2b107c3c134e95f41023315d570e3557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_1123d0bc549987b92199916697973e00c36abbc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec187b7292fec6cc199a0c48461d228b47122931">
+        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1a92566094735e1cfb17f3c5b54edaab087edbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50d4b89c6262c2cf0e6b353b189ab25775da1f09">
+        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b753b6de069a63297162d59321a8ca219e7eb0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zp/Android/faceup/faceloveStudio-master/app/libs/xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/zp/Android/faceup/faceloveStudio-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/xUtils-2.6.14_53ac272464fb84e413aaac0df4ca9cabd569371d/classes.dex" />
     </item>
 
 </items>

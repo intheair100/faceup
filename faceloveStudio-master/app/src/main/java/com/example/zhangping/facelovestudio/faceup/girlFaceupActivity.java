@@ -108,7 +108,7 @@ public class girlFaceupActivity extends BaseActivity {
 
     private void initialize() {
 
-        idivfaceup = (ImageView) findViewById(R.id.id_iv_faceup);
+//        idivfaceup = (ImageView) findViewById(R.id.id_iv_faceup);
         idhorizontallistviewfaceup = (HorizontalListView) findViewById(R.id.id_horizontallistview_faceup);
         idviewpagerfaceup = (ViewPager) findViewById(R.id.id_viewpager_faceup);
     }

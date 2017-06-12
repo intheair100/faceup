@@ -4,9 +4,9 @@ import android.app.ActivityManager;
 import android.app.Application;
 import android.content.Context;
 
-import io.rong.imkit.RongContext;
-import io.rong.imkit.RongIM;
-import io.rong.imlib.ipc.RongExceptionHandler;
+//import io.rong.imkit.RongContext;
+//import io.rong.imkit.RongIM;
+//import io.rong.imlib.ipc.RongExceptionHandler;
 
 /**
  * Created by zhangping on 16/2/19.
@@ -28,7 +28,7 @@ public class App extends Application {
         if (getApplicationInfo().packageName.equals(getCurProcessName(getApplicationContext())) ||
                 "io.rong.push".equals(getCurProcessName(getApplicationContext()))) {
 
-            RongIM.init(this);
+//            RongIM.init(this);
 
             /**
              * 融云SDK事件监听处理
