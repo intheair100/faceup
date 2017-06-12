@@ -9,3 +9,7 @@
 Polaris/proguard-mapping.txt
 Polaris/BuglyUploadLog.txt
 *.log
+*.lock
+.gradle/
+.idea/
+build/
